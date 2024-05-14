@@ -1,3 +1,6 @@
+# Serial Key Error
+You play Command and Conquer Kane's Wrath and get an Error: serial number already in use / Seriennummer wird bereits verwendet
+
 # ENGLISH  .PS1 und .EXE
 
 Explanation of the script:
