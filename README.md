@@ -1,6 +1,11 @@
 # Serial Key Error
 You play Command and Conquer Kane's Wrath and get an Error: serial number already in use / Seriennummer wird bereits verwendet
 
+# What to do?
+
+Just run the .exe and a new icon on your Desktop will appear after few seconds / minutes.
+Run it and the Game will start, in background the registry key will import.
+
 # ENGLISH  .PS1 und .EXE
 
 Explanation of the script:
